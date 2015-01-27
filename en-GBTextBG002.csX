@@ -1,6 +1,6 @@
 #Sekera
 #Tedy dobrá. Ale dělám to jen kvůli lodi. A kvůli kapitánovi.
-#Ihned vyplouváme směrem Koželužný ostrov.
+#Ihned vyplouváme směrem k Tannerovu ostrovu.
 #Neměla bych se teď vracet k sobě, musím jít za tátou do jeho kajuty.
 #Kdyby to bylo na mě, tak bych utekla na souš.
 #Kapitáne!
@@ -8,7 +8,7 @@
 #Čeká na tebe pramice, která tě tam odveze.
 #Se stylovým šátkem nemůžeš šáhnout vedle.
 #Chceš si půjčit některý z těch mých? Ani moc nesmrdí.
-#Yes. Yes I did. But it's still taking too long.
+#Ano. Ano, udělal. Ale pořád to trvá příliš dlouho.
 #Ano. proč to chceš vědět?
 #Vím, že je můj, protože není v té příšerné šedé barvě.
 #Tady stojí, že Ospalá moucha je příbuzná druhu Tsetse a její kousnutí někoho uspí na několik hodin.
@@ -34,50 +34,50 @@
 #To jsou dveře od záchodu.
 #Velmi dobrý důvod.
 #Doufám, že mi taťka odpustí.
-#I've just been given a sign - we must go back to our old house right now to resolve Father's issues before anything else!
-#I've never heard of a Sleepy Fly. What does it look like?
-#This is Briscoe's cabin.
-#I can't deal with Simpkins on my own. if I don't get Briscoe back the ship loses its charter. Please help.
+#Dostala jsem znamení - ze všeho nejdříve se musíme se vrátit zpátky do našeho starého domu, abychom vyřešili otcovy problémy!
+#Nikdy jsem neslyšla o Spící mouše. Jak vypadá?
+#To je Briscoeova kajuta.
+#Nemůžu se o Simpkinse postarat sama. Když nedostanu Briscoa zpátky na loď, tak ztratí svého nájemce. Prosím, pomoz mi.
 #Zvládlas to dobře, Morgane.
-#Not everyone has your taste in fashion.
-#Is it okay to go ashore?
-#Thank you, Nacho, that's excellent! Teď se běž trochu prospat.
-#I don't know any other place to sail to!
-#I think Nacho just keeps scrubbing the same spot.
-#I need to find a gift for someone.
+#Ne každý má tvůj vkus.
+#Dá se vyjít na mělčinu?
+#Díky, Nacho, to je bezvadné! Teď se běž trochu prospat.
+#Nevím, kam jinam plout!
+#Myslím, že Nacho pořád drhne ten samý flek.
+#Potřebuji pro někoho najít dárek.
 #Prázdná kajuta
-#Do you know where I can find a man's shirt?
-#Do you have an axe?
-#Oh...
+#Nevíš, kde najdu pánskou košili?
+#Máte sekeru?
+#Ou...
 #Vyplouváme!
-#I only go in there when I have no choice. I'd rather have a bucket in my own room.
-#Anyone else would have split their skull in two.
+#Tam chodím jen, když nemám na vybranou. Raději bych měla kýbl u sebe.
+#Kdokoli jáný by jim rozštípl lebku vedví.
 #Měla bych to říct tátovi.
 #Místní ostrov (Dutý ostrov)
-#Some kind of sleeping draught?
+#Nějaká nespavost?
 #Nacho.
-#I agree. It's eating away at the Captain like a festering sore.
-#I bought this poster in a place called "Diablo Island".  It looks terrific!
-#My own room is just next door if I want to rest.
+#Souhlasím. Užírá to koapitána jako hnisající rána.
+#Ten plakát jsem koupila na místě jménem "Ďábelský ostrov". Vypadá skvěle!
+#Má vlastní kajuta je hned vedle, kdybych si chtěla odpočinout.
 #Hlavní paluba
 #Zamčeno. Zvláštní.
-#It says these flies are only ever found near rare red plants.
+#Píše se tu, že ty mouchy lze najít jen poblíž vzácných rudých rostlin.
 #Tedy dobrá.
 #Kam chceš jít?
 #Alessandro
-#Did you witness an accidental killing at the Buckleberry Inn?
-#A Captain needs brains. A good, valuable crew is all the muscle that's needed.
-#Shirt
-#I'll fetch them.
-#Head
-#Why are you scrubbing at this time of night?
-#Why do you hate me so?
-#Yes, yes, I get the picture. I'm glad I had the tuna.
-#I feel sorry for whoever washes Carlo's underwear.
-#I have no reason to enter Briscoe's cabin; This could be interpreted in an embarrassing way.
-#I should go to my cabin and hope inspiration strikes me.
-#Senior Briscoe? Hmm... no answer.
-#I don't know. I've never seen one.
+#Byl jste u nešťastného zabití v hostinci u Buckleberryho?
+#Kapitán potřebuje mozek. A dobrá, cenná posádka nahradí jakékoli svaly.
+#Košile
+#Přinesu je.
+#Hlava
+#Proč tu šůruješ tak pozdě v noci?
+#Proč mě tak nesnášíš?
+#Ano, ano, chápu to. Jsem rád, že jsem měl tuňáka.
+#Lituju kohokoli, kdo pere Carlovy spoďáry.
+#Nemám proč chodit do Briscoeovy kabiny, tohle by si mohl špatně vyložit.
+#Měla bych jít do své kabiny a doufat, že mě políbí múza.
+#Señor Briscoe? Hmm... bez odezvy.
+#Nevím. Nikdy jsem ho neviděl.
 #Ten kovový plát má být zrcadlo.
 #Zamčený dům
 #Kladívko.
@@ -99,7 +99,7 @@
 #Pobřeží
 #Můj otec je kapitán, nikdy neudělal chybné velitelské rozhodnutí.
 #Diego...
-#Co je s tím záchode?
+#Co je s tím záchodem?
 #Spící moucha
 #Potřebovala bych pořádný důvod, abych se hrabala v hromadě špinavých prostěradel.
 #Našla jsem Spící mouchu...
