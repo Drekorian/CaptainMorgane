@@ -1,14 +1,14 @@
-#Sekera
-#Tak dobře. Ale dělám to jen kvůli lodi. A kvůli kapitánovi.
-#Ihned vyplouváme směrem k Tannerovu ostrovu.
-#Neměla bych se teď vracet k sobě, musím jít za taťkou do jeho kajuty.
+﻿#Sekera
+#Tedy dobrá. Ale dělám to jen kvůli lodi. A kvůli kapitánovi.
+#Ihned vyplouváme směrem Koželužný ostrov.
+#Neměla bych se teď vracet k sobě, musím jít za tátou do jeho kajuty.
 #Kdyby to bylo na mě, tak bych utekla na souš.
 #Kapitáne!
 #Obvaz
 #Čeká na tebe pramice, která tě tam odveze.
 #Se stylovým šátkem nemůžeš šáhnout vedle.
 #Chceš si půjčit některý z těch mých? Ani moc nesmrdí.
-#Ano. Ano, udělal. Ale pořád to trvá příliš dlouho.
+#Yes. Yes I did. But it's still taking too long.
 #Ano. proč to chceš vědět?
 #Vím, že je můj, protože není v té příšerné šedé barvě.
 #Tady stojí, že Ospalá moucha je příbuzná druhu Tsetse a její kousnutí někoho uspí na několik hodin.
@@ -25,7 +25,7 @@
 #Zašlý plát
 #Tak mu to neříkej.
 #Hmm... Dobrá, pomůžu ti.
-#Nechám ho tady. Dodává chodbě atmosféru.
+#Nechám ho tady. Dává té chodbě atmosféru.
 #Místní ostrov (Krabí ostrov)
 #Diego mě načapal, jak spím na hlídce. Řekl, že nemůžu jít spát, dokud nevydrhnu všechny paluby.
 #Dej bacha, co s ní děláš! Když uletí a kousne nás, tak usneme všichni.
@@ -34,51 +34,51 @@
 #To jsou dveře od záchodu.
 #Velmi dobrý důvod.
 #Doufám, že mi taťka odpustí.
-#Dostala jsem znamení - ze všeho nejdříve se musíme se vrátit zpátky do našeho starého domu, abychom vyřešili otcovy problémy!
-#Nikdy jsem neslyšla o Spící mouše. Jak vypadá?
-#To je Briscoeova kajuta.
-#Nemůžu se o Simpkinse postarat sama. Když nedostanu Briscoa zpátky na loď, tak ztratí svého nájemce. Prosím, pomoz mi.
+#I've just been given a sign - we must go back to our old house right now to resolve Father's issues before anything else!
+#I've never heard of a Sleepy Fly. What does it look like?
+#To je Briscoeová kajuta.
+#I can't deal with Simpkins on my own. if I don't get Briscoe back the ship loses its charter. Please help.
 #Zvládlas to dobře, Morgane.
-#Ne každý má tvůj vkus.
-#Dá se vyjít na mělčinu?
-#Díky, Nacho, to je bezvadné! Teď se běž trochu prospat.
-#Nevím, kam jinam plout!
-#Myslím, že Nacho pořád drhne ten samý flek.
-#Potřebuji pro někoho najít dárek.
+#Not everyone has your taste in fashion.
+#Is it okay to go ashore?
+#Thank you, Nacho, that's excellent! Teď se běž trochu prospat.
+#I don't know any other place to sail to!
+#I think Nacho just keeps scrubbing the same spot.
+#I need to find a gift for someone.
 #Prázdná kajuta
-#Nevíš, kde najdu pánskou košili?
+#Do you know where I can find a man's shirt?
 #Máte sekeru?
-#Ou...
+#Oh...
 #Vyplouváme!
-#Tam chodím jen, když nemám na vybranou. Raději bych měla kýbl u sebe.
-#Kdokoli jiný by jim rozštípl lebku vedví.
+#I only go in there when I have no choice. I'd rather have a bucket in my own room.
+#Kdokoli jiný by rozdělil svou lebku na dvě části.
 #Měla bych to říct tátovi.
 #Místní ostrov (Dutý ostrov)
-#Nějaká nespavost?
+#Some kind of sleeping draught?
 #Nacho.
-#Souhlasím. Užírá to kapitána jako hnisající rána.
-#Ten plakát jsem koupila na místě zvaném "Ďábelský ostrov". Vypadá skvěle!
-#Má vlastní kajuta je hned vedle, kdybych si chtěla odpočinout.
+#I agree. It's eating away at the Captain like a festering sore.
+#I bought this poster in a place called "Diablo Island".  It looks terrific!
+#My own room is just next door if I want to rest.
 #Hlavní paluba
 #Zamčeno. Zvláštní.
-#Píše se tu, že ty mouchy lze najít jen poblíž vzácných rudých rostlin.
+#It says these flies are only ever found near rare red plants.
 #Tedy dobrá.
 #Kam chceš jít?
 #Alessandro
-#Byl jste u nešťastného zabití v hostinci u Buckleberryho?
-#Kapitán potřebuje mozek. A dobrá, cenná posádka nahradí jakékoli svaly.
+#Did you witness an accidental killing at the Buckleberry Inn?
+#A Captain needs brains. A good, valuable crew is all the muscle that's needed.
 #Košile
-#Přinesu je.
+#Přivedu je.
 #Hlava
-#Proč tu šůruješ tak pozdě v noci?
-#Proč mě tak nesnášíš?
-#Ano, ano, chápu to. Jsem rád, že jsem měl tuňáka.
-#Lituju kohokoli, kdo pere Carlovy spoďáry.
-#Nemám proč chodit do Briscoeovy kabiny, tohle by si mohl špatně vyložit.
-#Měla bych jít do své kabiny a doufat, že mě políbí múza.
-#Señor Briscoe? Hmm... bez odezvy.
-#Nevím. Nikdy jsem ho neviděl.
-#Ten kovový plát má sloužit jako zrcadlo.
+#Why are you scrubbing at this time of night?
+#Proč mě tak nenávidí?
+#Yes, yes, I get the picture. I'm glad I had the tuna.
+#Lituji toho, kdo myje Carlovo spodní prádlo.
+#I have no reason to enter Briscoe's cabin; This could be interpreted in an embarrassing way.
+#I should go to my cabin and hope inspiration strikes me.
+#Seniore Briscoe? Hmm... žádná odpověď.
+#I don't know. I've never seen one.
+#Ten kovový plát má být zrcadlo.
 #Zamčený dům
 #Kladívko.
 #Potřebuji pomoct s kotvou.
@@ -97,14 +97,14 @@
 #Co, teď?
 #A co ta Spící moucha? Její kousnutí člověka uspí na několik hodin.
 #Pobřeží
-#Můj otec je kapitán a nikdy neudělal chybné velitelské rozhodnutí.
+#Můj otec je kapitán, nikdy neudělal chybné velitelské rozhodnutí.
 #Diego...
-#Co je s tím záchodem?
+#Co je s tím záchode?
 #Spící moucha
 #Potřebovala bych pořádný důvod, abych se hrabala v hromadě špinavých prostěradel.
 #Našla jsem Spící mouchu...
 #Diego je hrubián, ale věrný.
-#Mám to počkat na "znamení", než vyplujeme na Štědrý ostrov. Až tam budeme, tak uspím taťku mouchou.
+#Mám to počkat na "znamení", než vyplujeme na Štědrý ostrv. Až tam budeme, tak uspím taťku mouchou.
 #Díky.
 #Neboj, já to s Diegem urovnám.
 #To se pro svatebčany nehodí.
@@ -112,12 +112,12 @@
 #Ano?
 #Ano?
 #Díky. Vyrazíme k městským hradbám.
-#Briscoa někam unesl Hilary Simpkins.
+#Briscoa někam unesla Hilary Simpkins.
 #Nebo kdybys vešel do místnosti hned po Carlovi...
 #Myslím, že jsem našel tu ospalou mouchu, jaks mi o ní říkala. Víš jak ji chytit?
 #Místní ostrov (Želví ostrov)
 #Možná bych ho mohl odnést, zatímco by spal.
-#Místní ostrov (Ostrov odměn)
+#Místní ostrov (Štědrý ostrov)
 #Je ti dobře, Diego?
 #Señor Briscoe se ztratil! Potřebuji tvoji pomoc.
 #Občas Diegovi nerozumím.
@@ -129,10 +129,10 @@
 #Samozřejmě, že jsem. Ale to je poprvé, co mě někdo omráčil
 #A proto bys neměla být kapitán - potřebuješ pořádnou gorilu.
 #Odplout jinam
-#Místní ostrov (Tannerův ostrov)
+#Místní ostrov (Koželužný ostrov)
 #Mohl bys mi pomoct dostat se do mého starého domu? Dveře jsou zamčené.
 #Diego...
-#Musíme ihned vyplout směrem k Tannerově ostrovu.
+#Musíme ihned vyplout směrem ke Koželužnému ostrovu.
 #Nevíš jak nějak nenápadně uspat taťku?
 #Mamka by věděla. Čítávala mu o rostlinách a květinách. Dokonce i o broucích.
 #Co?!
@@ -147,12 +147,12 @@
 #Časem zašel, protože ho nikdo nevyleštil.
 #Plakát
 #Je ti dobře?
-#No a? Co já s tím?
+#No a ? Co to má co dělat se mnou?
 #Někdo tu přebíral špinavé prádlo.
-#Myslím, že ty mouchy jdou na krev.
+#Myslím, že ty mouchy jdou an krev.
 #Tak musíme takovou rostlinu najít. Oči na stopkách, Mogane.
 #Señore Briscoe? Hm... nic.
-#Ostrov odměn
+#Štědrý ostrov
 #Možná. Promyslím to. Ale musí to být nenápadné, nebo mu to dojde.
 #Dostal jsem pořádnou šlupku do temena, ale brzy budu v pohodě.
 #Jsi momentální kapitán - měla bys ho být schopná najít i bez mé pomoci.
