@@ -144,5 +144,5 @@ To nejlepší co teď můžeme udělat je, že se půjdeme pořádně vyspat a p
 #Ale netuším proč - neměla jsem žádné nové šaty které bych do ní dala.
 #Ptala jsem se na strýčka Eduarda!
 #Chobotnice
-#Proč jsi to nřekla rovnou? Slyšel jsem, že ho nedávno viděli v hostinci U Zlaté želvy.
+#Proč jsi to neřekla rovnou? Slyšel jsem, že ho nedávno viděli v hostinci U Zlaté želvy.
 #
